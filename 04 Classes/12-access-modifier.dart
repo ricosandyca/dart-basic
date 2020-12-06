@@ -1,4 +1,5 @@
 import '12-access-modifier-module.dart';
+// import '12-access-modifier-module.dart' as Alias;
 
 /**
  * Access modifier only works by accessing class through a module
